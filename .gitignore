@@ -62,7 +62,9 @@ node_modules/
 /bower_components
 
 # ignore jekyll build directory
-/_site
+/_private
+
+# ignore _private directory
 
 # ignore OS generated files
 ehthumbs.db
